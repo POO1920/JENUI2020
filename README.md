@@ -21,3 +21,16 @@ Vídeos proporcionados a los estudiantes en la asignatura:
 ## Formularios
 
 [Formulario de satisfacción de la asignatura Programación Orientada a Objetos Curso 2019/20](https://forms.gle/d5CFukstVwW9nYBt6).
+
+## Citar
+
+Para citar este trabajo utilizar la siguiente referencia. 
+
+```
+@inproceedings{AransayHeras2020,
+author = {J. {Aransay} and J. {Heras}},
+title = {{Fin de un viaje infinito: integración continua para prácticas de programación}},
+year = {2020},
+booktitle = {Actas de las {XXVI} Jornadas de Enseñanza Universitaria de Informática (JENUI 2020)},
+}
+```
