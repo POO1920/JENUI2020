@@ -6,7 +6,7 @@ Repositorio asociado al trabajo "Fin de un viaje infinito: integración continua
 ## Guía para reproducir la experiencia
 
 
-## Repositorio de ejemplo
+## Repositorios de ejemplo
 
 
 ## Vídeos
