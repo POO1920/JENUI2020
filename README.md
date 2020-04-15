@@ -5,9 +5,12 @@ Repositorio asociado al trabajo "Fin de un viaje infinito: integración continua
 
 ## Guía para reproducir la experiencia
 
+[Enlace a la guía](https://docs.google.com/document/d/1zzBjlfBkStHGtFYvCj1-TChFZ4UgESfSnpLtz0nIWEU/edit?usp=sharing)
 
 ## Repositorios de ejemplo
-
+- [Ejemplo repositorio C++](https://github.com/POO1920/practica0401p01C)
+- [Ejemplo repositorio Java](https://github.com/POO1920/practica0401p01Java)
+- [Guion para los ejemplos](materiales/Guion_Practica_04_01_Parte01.pdf)
 
 ## Vídeos
 
